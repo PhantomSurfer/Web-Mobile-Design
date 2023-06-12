@@ -5,7 +5,7 @@ Some design were created by me and some were created together with another team 
 
 Solo:
 Call-Meet
-Coffe-World
+Coffee-World
 MangaMania
 MeMoria
 Morning-Rush
